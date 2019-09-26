@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
+using TMPro;
 
-
-namespace TMPro.Examples
+namespace navdi3.texty
 {
 
     public class RollingTextFade : MonoBehaviour
